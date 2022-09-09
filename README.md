@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ahmetnuman42
-- 👀 I’m interested in Software
-- 🌱 I’m currently learning .Net Fremawork
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ahmet Numan Ecevitci
+- 👀 I’m interested in .Net Teknolojileri
+- 🌱 I’m currently learning .Net
+- 📫 How to reach me ahmetnumanecevitci@gmail.com
 
 <!---
 ahmetnuman42/ahmetnuman42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
