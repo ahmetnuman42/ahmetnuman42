@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmet Numan Ecevitci
-- 👀 I’m interested in .Net Teknolojileri
+- 👀 I’m interested in .Net Technologies
 - 🌱 I’m currently learning .Net
 - 📫 How to reach me ahmetnumanecevitci@gmail.com
 
